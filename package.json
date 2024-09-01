@@ -1,6 +1,6 @@
 {
   "name": "npm-library",
-  "private": true,
+  "private": false,
   "lockfileVersion": 1,
   "version": "0.0.1",
   "type": "module",
