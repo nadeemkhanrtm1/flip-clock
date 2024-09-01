@@ -1,8 +1,7 @@
 {
-  "name": "@nadeem/flip-clock",
+  "name": "flip-clock-nk",
   "private": false,
-  "lockfileVersion": 1,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "main": "dist/entry-entry1/entry1.cjs.js",
   "module": "dist/entry-entry1/entry1.es.js",
